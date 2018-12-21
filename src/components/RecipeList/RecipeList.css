@@ -1,0 +1,10 @@
+.list-container{
+    width: 500px;
+    margin: auto
+}
+
+@media only screen and (max-width: 500px) {
+    .list-container{
+        width: 100%
+    }
+}

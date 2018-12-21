@@ -1,0 +1,6 @@
+.ingr{
+    transform: scale(0.75) translate(-40px, 0px);
+    text-align: left;
+    color: rgba(0, 0, 0, 0.3);
+    margin-top: 10px;
+}

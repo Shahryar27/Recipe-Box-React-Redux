@@ -1,0 +1,14 @@
+body{
+    background-repeat: no-repeat;
+    height: 100vh;
+    background: rgb(245,245,245); 
+}
+.App {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.App h1{
+  font-weight: 400;
+  margin-top: 30px
+}
